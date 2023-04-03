@@ -38,3 +38,6 @@ Taille de la famille
 4) Exporter les résultats de clustering vers Tableau pour visualiser
 
 Durée du projet : 1 jour
+
+
+Cliquez sur ce lien pour voir le tableau de bord TS : https://public.tableau.com/app/profile/oy4372/viz/TSTableaudebord/TSTableaudebord
