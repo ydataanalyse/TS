@@ -41,4 +41,3 @@ Durée du projet : 1 jour
 
 
 Cliquez sur ce lien pour voir le tableau de bord TS : https://public.tableau.com/app/profile/oy4372/viz/TSTableaudebord/TSTableaudebord
-Cliquez sur ce lien pour écouter l'histoire de TS et le contexte de l'analyse en détails : https://bio.site/ledefi
